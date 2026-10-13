@@ -1,0 +1,100 @@
+{
+  "HD 209458": {
+    "archivo": "HD209458.csv",
+    "r_estrella_rsol": 1.203,
+    "periodo_publicado_d": 3.5247,
+    "radio_publicado_rj": 1.38,
+    "sector": 56
+  },
+  "kepler442_b_Kepler": {
+    "estrella": "kepler 442",
+    "planeta": "b",
+    "catalogo": "Kepler",
+    "sector": 1,
+    "r_estrella_rsol": 0.65
+  },
+  "WASP4_b_SPOC": {
+    "estrella": "WASP 4",
+    "planeta": "b",
+    "catalogo": "SPOC",
+    "sector": 2,
+    "r_estrella_rsol": 0.895
+  },
+  "wasp43_b_SPOC": {
+    "estrella": "wasp 43",
+    "planeta": "b",
+    "catalogo": "SPOC",
+    "sector": 9,
+    "r_estrella_rsol": 0.758
+  },
+  "wasp18_b_SPOC": {
+    "estrella": "wasp 18",
+    "planeta": "b",
+    "catalogo": "SPOC",
+    "sector": 2,
+    "r_estrella_rsol": 1.347
+  },
+  "wasp121b_SPOC": {
+    "estrella": "wasp 121b",
+    "planeta": "",
+    "catalogo": "SPOC",
+    "sector": 7,
+    "r_estrella_rsol": 1.523
+  },
+  "wasp12_SPOC": {
+    "estrella": "wasp12",
+    "planeta": "",
+    "catalogo": "SPOC",
+    "sector": 20,
+    "r_estrella_rsol": 1.749
+  },
+  "TrES2b_SPOC": {
+    "estrella": "TrES-2 b",
+    "planeta": "",
+    "catalogo": "SPOC",
+    "sector": 26,
+    "r_estrella_rsol": 1.016
+  },
+  "HATP7b_SPOC": {
+    "estrella": "HAT-P-7 b",
+    "planeta": "",
+    "catalogo": "SPOC",
+    "sector": 14,
+    "r_estrella_rsol": 1.994
+  },
+  "HATP7b_Kepler": {
+    "estrella": "HATP7b",
+    "planeta": "",
+    "catalogo": "Kepler",
+    "sector": -1,
+    "r_estrella_rsol": 1.952
+  },
+  "Kepler5b_SPOC": {
+    "estrella": "Kepler-5 b",
+    "planeta": "",
+    "catalogo": "SPOC",
+    "sector": 41,
+    "r_estrella_rsol": 1.782
+  },
+  "Kepler5b_b_Kepler": {
+    "estrella": "Kepler-5 b",
+    "planeta": "b",
+    "catalogo": "Kepler",
+    "sector": 2,
+    "r_estrella_rsol": 1.746
+  },
+  "Kepler7_b_SPOC": {
+    "estrella": "Kepler-7",
+    "planeta": "b",
+    "catalogo": "SPOC",
+    "sector": 40,
+    "r_estrella_rsol": 2.081
+  },
+  "Kepler7b_b_Kepler": {
+    "estrella": "Kepler-7 b",
+    "planeta": "b",
+    "catalogo": "Kepler",
+    "sector": 3,
+    "r_estrella_rsol": 1.909
+  }
+}
